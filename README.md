@@ -1,32 +1,56 @@
+<body>
+  <center>
+<h1 align="center">⚡ ~ Bem-Vindo(a) ao meu perfil ~ ⚡ </h1>
+<br>
+<div align="center">
+ 
+  <p>𝓐 𝓿𝓲𝓭𝓪 𝓪𝓬𝓸𝓷𝓽𝓮𝓬𝓮</p>
+  <p>𝓸𝓷𝓭𝓮 𝓿𝓸𝓬𝓮̂ 𝓮𝓼𝓽𝓪́</p>
+  <p>𝓺𝓾𝓮𝓲𝓻𝓪 𝓿𝓸𝓬𝓮̂ 𝓸𝓾 𝓷𝓪̃𝓸.</p>
+  
+</div>
+    <div align="center">
+ <img src="https://media1.tenor.com/m/zGoBKgmlSz8AAAAC/iroh-hello.gif">
+      </div>
+   
+   <div>
+    <h2 align="center"> 🔥 ~ 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 ~ 🔥 </h2>
+  <div align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FvNjk4YzVnamk5YXg5NXJ3bWExYnp5dDhwczdvdHlyeWM2ZDNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSZ3CXhLzAz6dLEA1t/giphy.gif" align="right">
+  </div>
+<li><b>𝓣𝓱𝓲𝓪𝓰𝓸 ( 𝓣𝓱𝓲𝓪𝓰𝓾𝓮𝓻𝓪 )</b> </li>
+<li><b>𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴</b></li>
+<li><b>𝓢𝓮𝓶𝓹𝓻𝓮 𝓹𝓻𝓸𝓷𝓽𝓸 𝓹𝓪𝓻𝓪 𝓬𝓸𝓵𝓪𝓫𝓸𝓻𝓪𝓼 𝓮𝓶 𝓹𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓲𝓷𝓭𝓮𝓹𝓮𝓷𝓭𝓮𝓷𝓽𝓮𝓼</b></li>
+ <li><b>𝓣𝓪𝓶𝓫𝓮́𝓶 𝓼𝓸𝓾 𝓸<a href="https://github.com/programadorleonel"> @𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓭𝓸𝓻𝓵𝓮𝓸𝓷𝓮𝓵</a> </b></li>
+<li><b>𝓣𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓷𝓭𝓸 𝓬𝓸𝓶</b> 𝓡𝓮𝓭𝓮𝓼 𝓝𝓮𝓾𝓻𝓪𝓲𝓼 𝓮 𝓓𝓮𝓮𝓹 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰</li>
+   
+<br><br><br>
+</div>
 
-<h2 align="left">
- <abc>
-  <br>Eai! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> Sou Thiaguera, Desenvolvedor Full Stack  :computer:<br>
+
+
+<h2 align="center">             🪨 ~ Meu Conhecimento ~ 🪨 </h2>
+ <br>
+<p>
+  <div align="center">
+<img src="https://media.tenor.com/p7Y71oNYJ-wAAAAM/toph-atla.gif" align="right">
+  </div>
+</div>
+<div>
   <br>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FvNjk4YzVnamk5YXg5NXJ3bWExYnp5dDhwczdvdHlyeWM2ZDNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSZ3CXhLzAz6dLEA1t/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Tecnologias e Ferramentas:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-    <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
-    <img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
-    <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-    <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-    <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-    <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-    </p>
-
-<h2 align="left">👨🏻‍💻 Sobre mim:</h2>
-
-- :computer: Sou desenvolvedor Full Stack, atualmente estou me aperfeiçoando em desenvolvimento de IAs
-- :hourglass_flowing_sand: Explorando sobre Redes Neurais e Deep Learning
-- :rocket: Sempre pronto para colaboras em projetos independentes
-- :man_technologist: Também sou o <a href="https://github.com/programadorleonel">@programadorleonel<a>
-
-
-
+<p align="center"><img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <br><br>
+𝓐𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓼𝓽𝓸𝓾 𝓽𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓷𝓭𝓸 𝓬𝓸𝓶 𝓪𝓾𝓽𝓸𝓶𝓪𝓬̧𝓪̃𝓸 𝓭𝓮 𝓹𝓻𝓸𝓬𝓮𝓼𝓼𝓸𝓼 𝓮 𝓭𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓶𝓮𝓷𝓽𝓸 𝓭𝓮 𝓘𝓐𝓼 𝓳𝓾𝓻𝓲́𝓭𝓲𝓬𝓪𝓼.
+</p>
+<br>
+<br>
+<div>
+<h2 align="center">🌊 ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓽𝓮𝓻 𝓵𝓲𝓭𝓸 ~ 🌊</h2>
+<div align="center">
+<img src="https://media1.tenor.com/m/YHqmD1RTIgwAAAAC/zuko-gaang.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
