@@ -1,4 +1,3 @@
-<h1>Eai, Me chamo Thiago, mas muita gente me chama de Thiaguera <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 ## Skill Set :muscle:
 
