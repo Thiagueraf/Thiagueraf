@@ -37,7 +37,7 @@
   </div>
 </div>
 <div>
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
 <p align="center"><img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <br><br>
 𝓐𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓼𝓽𝓸𝓾 𝓽𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓷𝓭𝓸 𝓬𝓸𝓶 𝓪𝓾𝓽𝓸𝓶𝓪𝓬̧𝓪̃𝓸 𝓭𝓮 𝓹𝓻𝓸𝓬𝓮𝓼𝓼𝓸𝓼 𝓮 𝓭𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓶𝓮𝓷𝓽𝓸 𝓭𝓮 𝓘𝓐𝓼 𝓳𝓾𝓻𝓲́𝓭𝓲𝓬𝓪𝓼.
