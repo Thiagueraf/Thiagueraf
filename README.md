@@ -7,11 +7,9 @@
   <p>𝓐 𝓿𝓲𝓭𝓪 𝓪𝓬𝓸𝓷𝓽𝓮𝓬𝓮</p>
   <p>𝓸𝓷𝓭𝓮 𝓿𝓸𝓬𝓮̂ 𝓮𝓼𝓽𝓪́</p>
   <p>𝓺𝓾𝓮𝓲𝓻𝓪 𝓿𝓸𝓬𝓮̂ 𝓸𝓾 𝓷𝓪̃𝓸.</p>
-  
+  <img src="https://media1.tenor.com/m/zGoBKgmlSz8AAAAC/iroh-hello.gif">
 </div>
-    <div align="center">
- <img src="https://media1.tenor.com/m/zGoBKgmlSz8AAAAC/iroh-hello.gif">
-      </div>
+
    
    <div>
     <h2 align="center"> 🔥 ~ 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 ~ 🔥 </h2>
