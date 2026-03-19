@@ -1,54 +1,44 @@
-<body>
-  <center>
-<h1 align="center">⚡ ~ Bem-Vindo(a) ao meu perfil ~ ⚡ </h1>
-<br>
+# Olá, eu sou o Thiago Augusto 👋
+### Desenvolvedor de Software | Cientista de Dados | Engenheiro de Sistemas
+
+Sou um profissional multidisciplinar focado em criar soluções eficientes, escaláveis e de alto impacto. Transito por todo o ciclo de vida da tecnologia: desde a compreensão da infraestrutura (hardware/software), passando pela arquitetura avançada de banco de dados, até a análise de dados (BI) e entrega de APIs de alta performance.
+
+Minha especialidade é traduzir regras de negócio altamente burocráticas e complexas em sistemas automatizados, leves e orientados a dados.
+
+---
+
+### 🚀 O que eu faço e o impacto que gero
+
+* **Otimização Extrema:** Desenvolvi motores de cálculo que reduziram rotinas de análise de **mais de 2 horas para apenas 10 a 20 minutos** (ganho de eficiência superior a 85%).
+* **Arquitetura SaaS:** Construção de plataformas corporativas com modelagem relacional complexa (PostgreSQL), gerenciamento de permissões N:N e máquinas de estado para orquestração de demandas.
+* **Performance & Cloud:** Foco em Clean Code e otimização de consumo de memória em deploys na nuvem (Heroku/FastAPI).
+* **Front-end Purista:** Domínio de **JavaScript Vanilla**, garantindo interfaces rápidas, interativas e sem dependência excessiva de bibliotecas de terceiros.
+
+---
+
+### 💻 Stack Tecnológico
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white" />
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img align="center" alt="Data Science & BI" src="https://img.shields.io/badge/Data_Science_&_BI-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white" />
+</div><br>
+
+---
+
+### 📊 GitHub Stats
+
 <div align="center">
- 
-  <p>𝓐 𝓿𝓲𝓭𝓪 𝓪𝓬𝓸𝓷𝓽𝓮𝓬𝓮</p>
-  <p>𝓸𝓷𝓭𝓮 𝓿𝓸𝓬𝓮̂ 𝓮𝓼𝓽𝓪́</p>
-  <p>𝓺𝓾𝓮𝓲𝓻𝓪 𝓿𝓸𝓬𝓮̂ 𝓸𝓾 𝓷𝓪̃𝓸.</p>
-  <img src="https://media1.tenor.com/m/zGoBKgmlSz8AAAAC/iroh-hello.gif">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Thiagueraf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagueraf&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-   
-   <div>
-    <h2 align="center"> 🔥 ~ 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 ~ 🔥 </h2>
-  <div align="center">
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FvNjk4YzVnamk5YXg5NXJ3bWExYnp5dDhwczdvdHlyeWM2ZDNiaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YSZ3CXhLzAz6dLEA1t/giphy.gif" align="right">
-  </div>
-<br>
-<li><b>𝓣𝓱𝓲𝓪𝓰𝓸 ( 𝓣𝓱𝓲𝓪𝓰𝓾𝓮𝓻𝓪 )</b> </li>
-<li><b>𝓓𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓮𝓭𝓸𝓻 𝓕𝓾𝓵𝓵 𝓢𝓽𝓪𝓬𝓴</b></li>
-<li><b>𝓢𝓮𝓶𝓹𝓻𝓮 𝓹𝓻𝓸𝓷𝓽𝓸 𝓹𝓪𝓻𝓪 𝓬𝓸𝓵𝓪𝓫𝓸𝓻𝓪𝓼 𝓮𝓶 𝓹𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓲𝓷𝓭𝓮𝓹𝓮𝓷𝓭𝓮𝓷𝓽𝓮𝓼</b></li>
-<li><b>𝓣𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓷𝓭𝓸 𝓬𝓸𝓶</b> 𝓡𝓮𝓭𝓮𝓼 𝓝𝓮𝓾𝓻𝓪𝓲𝓼 𝓮 𝓓𝓮𝓮𝓹 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰</li>
-<li><b>𝓣𝓪𝓶𝓫𝓮́𝓶 𝓼𝓸𝓾 𝓸<a href="https://github.com/programadorleonel"> @𝓹𝓻𝓸𝓰𝓻𝓪𝓶𝓪𝓭𝓸𝓻𝓵𝓮𝓸𝓷𝓮𝓵</a> </b></li>
-<li><b>𝓣𝓪𝓵𝓿𝓮𝔃 𝓮𝓾 𝓰𝓸𝓼𝓽𝓮 𝓾𝓶 𝓹𝓸𝓾𝓬𝓸 𝓭𝓮 𝓐𝓿𝓪𝓽𝓪𝓻</b></li>
-<br><br><br><br><br>
-</div>
+---
 
 
-
-<h2 align="center">             🪨 ~ Meu Conhecimento ~ 🪨 </h2>
-<p>
-  <div align="center">
-<img src="https://media1.tenor.com/m/SaNfwBhg48MAAAAC/avatar-the-last-airbender-toph.gif" align="right">
-  </div>
-</div>
-<div>
-  <br><br><br><br><br><br><br><br>
-<p align="center"><img src="https://img.shields.io/badge/python%20-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> <br><br>
-𝓐𝓽𝓾𝓪𝓵𝓶𝓮𝓷𝓽𝓮 𝓮𝓼𝓽𝓸𝓾 𝓽𝓻𝓪𝓫𝓪𝓵𝓱𝓪𝓷𝓭𝓸 𝓬𝓸𝓶 𝓪𝓾𝓽𝓸𝓶𝓪𝓬̧𝓪̃𝓸 𝓭𝓮 𝓹𝓻𝓸𝓬𝓮𝓼𝓼𝓸𝓼 𝓮 𝓭𝓮𝓼𝓮𝓷𝓿𝓸𝓵𝓿𝓲𝓶𝓮𝓷𝓽𝓸 𝓭𝓮 𝓘𝓐𝓼 𝓳𝓾𝓻𝓲́𝓭𝓲𝓬𝓪𝓼.
-</p>
-<br>
-<br>
-<div>
-<h2 align="center">🌊 ~ 𝓞𝓫𝓻𝓲𝓰𝓪𝓭𝓸 𝓹𝓸𝓻 𝓽𝓮𝓻 𝓵𝓲𝓭𝓸 ~ 🌊</h2>
-<div align="center">
-<img src="https://media1.tenor.com/m/YHqmD1RTIgwAAAAC/zuko-gaang.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
+### 📬 Como me encontrar
+* **LinkedIn:** [https://br.linkedin.com/in/thiago-augusto-parreira-079b40234]
+* **E-mail:** [devthiagoap@gmail.com]
